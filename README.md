@@ -18,6 +18,7 @@ In addition to a control of:
   - When hovering over the table, display the total value of the table in one hint.
   - The colors of the tables inform her status.
   - It will be allowed to add new tables and new environments when necessary.
+  - Register the quantity of products with the barcode reader
   
 # Prerequisites
 - You only need to have one database (used SQL Server).
